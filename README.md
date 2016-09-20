@@ -30,6 +30,10 @@ The app uses Mongoose to create a simple database that stores Docker commands an
 
 7. Navigate to http://localhost:8080 in your browser.
 
+8.to insert data  inside container
+
+	docker exec 567 node dbSeeder.js
+
 
 
 
